@@ -32,7 +32,7 @@ The explorer is designed to make Zircuit transparent, auditable, and developer-f
 ## Architecture
 
 This project is powered by **Blockscout Autoscout**, a managed deployment layer that automates explorer hosting and indexing.
-With Blockscout you can index your blockchain in minutes.
+With Blockscout you can index your blockchain in minutes and it was a very smooth procedure where you can see your status and logs.
 
 **Core components:**
 
