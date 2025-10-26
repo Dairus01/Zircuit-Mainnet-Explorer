@@ -127,7 +127,4 @@ This allowed us to focus on customization, branding, and analytics rather than i
 **Deployed via:** [Blockscout Autoscout Cloud](https://docs.blockscout.com/using-blockscout/autoscout)  
 **Blockchain:** [Zircuit Mainnet](https://www.zircuit.com)
 
----
-
-## Repository Structure (if applicable)
 
