@@ -50,7 +50,7 @@ With Blockscout you can index your blockchain in minutes.
 ## How It Works
 
 1. **Deployment**:  
-   Using [Autoscout](https://docs.blockscout.com/using-blockscout/autoscout), we created a new instance and filled in:
+   Using [Autoscout](https://deploy.blockscout.com), we created a new instance and filled in:
    - Chain Name: `Zircuit Mainnet`  
    - Chain ID: `48900`  
    - RPC URL: `https://mainnet.zircuit.com/`  
@@ -111,7 +111,7 @@ This allowed us to focus on customization, branding, and analytics rather than i
 
 ---
 
-## 🗺️ Future Plans
+## Future Plans
 
 - Enable **contract verification** workflow for developers  
 - Integrate **token risk analytics** and whale tracking  
@@ -121,7 +121,7 @@ This allowed us to focus on customization, branding, and analytics rather than i
 
 ---
 
-## 🧑‍💻 Team & Credits
+## Team & Credits
 
 **Built by:** Dairus ([@okohdairus](mailto:okohdairus@gmail.com))  
 **Deployed via:** [Blockscout Autoscout Cloud](https://docs.blockscout.com/using-blockscout/autoscout)  
@@ -129,5 +129,5 @@ This allowed us to focus on customization, branding, and analytics rather than i
 
 ---
 
-## 🧱 Repository Structure (if applicable)
+## Repository Structure (if applicable)
 
