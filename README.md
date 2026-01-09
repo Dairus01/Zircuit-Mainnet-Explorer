@@ -3,7 +3,7 @@
 A live **Blockscout-powered blockchain explorer** for the **Zircuit Mainnet**, providing real-time visibility into blocks, transactions, token transfers, account balances, and on-chain analytics.
 
 🔗 **Live Demo:** [https://zircuit.cloud.blockscout.com/](https://zircuit.cloud.blockscout.com/)
-
+The live demo is currently down due to exhaustion of credits
 ---
 
 ## Overview
